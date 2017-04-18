@@ -47,4 +47,8 @@
 
 ---
 
+### Database
+
+- Postgresql Version 9.6
+
 Last updated: 1st Jan 2015
